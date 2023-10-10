@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Max Kholostenko
+	email = drag817@yandex.ru
+[alias]
+	history = log
